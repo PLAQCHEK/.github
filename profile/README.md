@@ -1,15 +1,22 @@
 # PLAQCHEK
 
-A capstone group at the University of Waterloo.
+NE25 Capstone Group #12 at the University of Waterloo.
 
-Our project was to create an immunosensor that can detect Lp-PLA2
-<!--
+Our project was to create an immunosensor that can detect Lp-PLA2, an enzyme associated with plaque buildup in the arteries.
 
-**Here are some ideas to get you started:**
+## Repository Breakdown
+1. PLAQCHEK-app
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our mobile app that interfaces with the immunosensor device through a BLE connection
+
+2. Hardware_Design
+
+PCB design files using KiCAD
+
+3. plaqchek-firmware
+
+Firmware for the immunosensor device
+
+4. case-design
+
+Solidwork files of the housing for the device
